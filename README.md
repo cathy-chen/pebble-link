@@ -1,2 +1,1 @@
-# pebble-link
-Website for our McHacks 2015 project, Pebble Link.
+# Website for our McHacks 2015 project, Pebble Link. Check it out at [wearableapplications.me](http://wearableapplications.me). If that doesn't work, click [here](http://cathy-chen.github.io/pebble-link/).
